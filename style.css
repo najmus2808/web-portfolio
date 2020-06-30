@@ -38,7 +38,7 @@ p{
 
 section{
     height: 500px;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 
 .link-button{
@@ -55,6 +55,10 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     
+}
+
+.dream-area p{
+    padding-right: 10px;
 }
 
 .singel-experience{
